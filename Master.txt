@@ -1,8 +1,4 @@
-<Version: 0.01-b>
-/js/plugins/SRD_CharacterChoices.js https://dl.dropboxusercontent.com/content_link/Q80XFffinTnWlhJWglQM1Pf2A8dM5hMxtBFUo3poIVkhRZyFNVT6YR9HCnKosM1J/file?dl=1
-<End of Version>
-
-<Version: 0.02-b>
-/js/plugins/SRD_WindowUpgrade.js https://dl.dropboxusercontent.com/content_link/KuBjz4aFbdSTcLRYvfUaiQwJRbbx79IEpCercFAZKZvrcHSgFbVvpyunP6Vj7QTU/file?dl=1
-/js/plugins/SRD_GameUpgrade.js https://dl.dropboxusercontent.com/content_link/vo3KwGjMqzb1seU3kB8fbmbIuN2y9ux0sjRMo8ymcRHJORxDWPhhCsrk6Phu8rQy/file?dl=1
-<End of Version>
+/* <Version: 0.01-b>
+* /js/plugins/FILENAME DIRECTLINK
+* <End of Version>
+*/
