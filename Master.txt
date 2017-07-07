@@ -1,4 +1,4 @@
-/* <Version: 0.01-b>
+/* <Version: VERSION>
 * /js/plugins/FILENAME DIRECTLINK
 * <End of Version>
 */
