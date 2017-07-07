@@ -1,3 +1,3 @@
-<Version: 1.00-b>
+<Version: 1.01>
 /js/plugins/SRD_CharacterChoices.js https://dl.dropboxusercontent.com/content_link/Q80XFffinTnWlhJWglQM1Pf2A8dM5hMxtBFUo3poIVkhRZyFNVT6YR9HCnKosM1J/file?dl=1
 <End of Version>
