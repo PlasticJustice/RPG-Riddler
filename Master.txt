@@ -2,3 +2,9 @@
 * /js/plugins/FILENAME DIRECTLINK
 * <End of Version>
 */
+
+<Version: 1.01>
+/js/plugins/SRD_NameInputUpgrade.js https://www.dropbox.com/s/ukbr4p9vrf04jm0/SRD_NameInputUpgrade.js?dl=1
+<End of Version>
+
+
